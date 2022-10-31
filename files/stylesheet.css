@@ -36,3 +36,15 @@ sh2 {
 .jumbotron {
     background-color: #32a852;
 }
+
+.bg-cover {
+    background-attachment: static;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+    width: 200px,
+    height: auto
+}
