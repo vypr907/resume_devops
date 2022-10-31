@@ -5,10 +5,10 @@
 @font-face {
     font-family: 'gravediggerregular';
     src: url("https://slaszloffy-devops-resume.s3.us-east-2.amazonaws.com/files/gravedigger-8boz-webfont.eot");
-    src: url("https://slaszloffy-devops-resume.s3.us-east-2.amazonaws.com/files/gravedigger-8boz-webfont.woff2") format("woff2"),
-         url("https://slaszloffy-devops-resume.s3.us-east-2.amazonaws.com/files/gravedigger-8boz-webfont.woff") format("woff"),
-         url("https://slaszloffy-devops-resume.s3.us-east-2.amazonaws.com/files/gravedigger-8boz-webfont.ttf") format("truetype"),
-         url("https://slaszloffy-devops-resume.s3.us-east-2.amazonaws.com/files/gravedigger-8boz-webfont.svg") format("svg");
+    src: url("https://slaszloffy-devops-resume.s3.us-east-2.amazonaws.com/files/gravedigger-8boz-webfont.woff2") format("woff2");
+    src: url("https://slaszloffy-devops-resume.s3.us-east-2.amazonaws.com/files/gravedigger-8boz-webfont.woff") format("woff");
+    src: url("https://slaszloffy-devops-resume.s3.us-east-2.amazonaws.com/files/gravedigger-8boz-webfont.ttf") format("truetype");
+    src: url("https://slaszloffy-devops-resume.s3.us-east-2.amazonaws.com/files/gravedigger-8boz-webfont.svg") format("svg");
     font-weight: normal;
     font-style: normal;
 
@@ -45,6 +45,6 @@ sh2 {
 }
 
 img {
-    width: 200px,
-    height: auto
+    width: 200px;
+    height: auto;
 }
