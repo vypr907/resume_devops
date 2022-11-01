@@ -21,7 +21,11 @@ body{
     background-size: cover;
 }
 p {
-    color: #32a852
+    color: #f3f3f3;
+    size: 24px;
+}
+h3{
+    color:chartreuse
 }
 sh1 {
     font-family: "Caveat", sans-serif;
@@ -30,7 +34,7 @@ sh1 {
 }
 sh2 {
     font-family: "gravediggerregular", sans-serif;
-    font-size: 30px;
+    font-size: 28px;
 }
 
 .jumbotron {
@@ -44,7 +48,23 @@ sh2 {
     background-size: cover;
 }
 
-img {
-    width: 200px;
+.responsive {
+    width: 100%;
+    max-width: 400px;
     height: auto;
+    margin-bottom: 10px;
+}
+
+.container{
+    display:flex
+}
+
+.btn{
+    background-color: #32a852;
+    border:none;
+    color: black;
+    margin-left: 5px;
+    box-shadow: 1px 2px 10px #070000;
+    font-family: "caveat", sans-serif;
+    font-size: large;
 }
