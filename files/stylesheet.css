@@ -25,7 +25,8 @@ p {
     size: 24px;
 }
 h3{
-    color:chartreuse
+    color: chartreuse;
+    margin-top: 17px;
 }
 sh1 {
     font-family: "Caveat", sans-serif;
