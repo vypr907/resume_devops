@@ -24,6 +24,7 @@ p {
     color: #fdfbfb;
     font-size: 20px;
 }
+
 h3{
     color: chartreuse;
     margin-top: 17px;
@@ -68,4 +69,14 @@ sh2 {
     box-shadow: 1px 2px 10px #070000;
     font-family: "caveat", sans-serif;
     font-size: 2vw;
+}
+
+a{
+    font-family: "caveat", sans-serif;
+    font-size: 3vw;
+    color:#32a852;
+}
+
+.carousel-caption {
+    background: rgba(0, 0, 0, 0.5)
 }
